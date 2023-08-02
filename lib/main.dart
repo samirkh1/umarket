@@ -39,6 +39,7 @@ class LoginPage extends StatefulWidget {
 class _LoginPageState extends State<LoginPage> {
   final Color darkishBlue = const Color(0xFF00274C);
   final Color darkerYellow = const Color(0xFFF7B50C);
+  String wordwad = "";
 
   // Define the email and password controllers
   final TextEditingController emailController = TextEditingController();
