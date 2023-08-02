@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1047562975691",
+    "project_id": "umarket-123ea",
+    "storage_bucket": "umarket-123ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047562975691:android:3c3f60eac2318f6e419e4e",
+        "android_client_info": {
+          "package_name": "com.example.umarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047562975691-f69gll9nbcp2g5pe1pviifk5s2j27590.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTHWWb1TfCn40leG-GDFfaizV_nBWeDw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047562975691-f69gll9nbcp2g5pe1pviifk5s2j27590.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
